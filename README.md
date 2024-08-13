@@ -1,0 +1,5 @@
+[Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals/home/module/1)
+[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/1)
+[Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
+[System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/1)
+[IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/1)
