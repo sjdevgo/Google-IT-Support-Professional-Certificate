@@ -3,7 +3,7 @@
   * Prepare for a career in the high-growth field of IT, no experience or degree required.
   * Qualify for in-demand job titles: IT Specialist, Tech Support Specialist, IT Support Specialist
 
-1.[Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals/home/module/1)
+1.[Technical Support Fundamentals] [Certificate](https://coursera.org/share/3aaed01cbb2e9560bbaaa1ca60c2766c)
 
 2.[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/1)
 
