@@ -5,7 +5,7 @@
 
 1.Technical Support Fundamentals [Certificate](https://coursera.org/share/3aaed01cbb2e9560bbaaa1ca60c2766c)
 
-2.[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/module/1)
+2.[The Bits and Bytes of Computer Networking] [Certificate](https://coursera.org/share/531fe9c9d610462b75ef5569dfc3bb61)
 
 3.[Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
 
