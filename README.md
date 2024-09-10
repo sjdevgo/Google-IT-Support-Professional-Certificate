@@ -8,7 +8,7 @@
 
 2. The Bits and Bytes of Computer Networking [Certificate](https://coursera.org/share/531fe9c9d610462b75ef5569dfc3bb61)
 
-3. [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user/home/module/1)
+3. Operating Systems and You: Becoming a Power User [Certificate](https://coursera.org/share/e6286a5d1f5d1581d0eca893f31c7106)
 
 4. [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/module/1)
 
