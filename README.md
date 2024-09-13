@@ -12,4 +12,4 @@
 
 4. System Administration and IT Infrastructure Services [Certificate](https://coursera.org/share/fd970ed0fcda6c101dd6dbd38e67268f)
 
-5. [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/home/module/1)
+5. IT Security: Defense against the digital dark arts [Certificate](https://coursera.org/share/42e1310d0aae2bc01580886ed359989e)
